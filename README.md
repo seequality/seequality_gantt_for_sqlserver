@@ -1,5 +1,5 @@
 # Gantt for Microsoft SQL Server
-Gantt report for SQL Server activity
+Gantt report for SQL Server's activity
 
 ## Description
 Description {PL}
